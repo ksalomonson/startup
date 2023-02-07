@@ -9,4 +9,6 @@ sudo service caddy restart
 
 ___.pem
 
-<li><a href="index.html">Home</a></li>
+I learned that for linking the proper format is : <li><a href="index.html">Home</a></li> (Link won't work because raw code is posted here
+When deploying, make sure you're in the correct folder
+HTML formatting is eazy until you start putting in fillable fields.
