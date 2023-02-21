@@ -12,3 +12,7 @@ ___.pem
 I learned that for linking the proper format is : <li><a href="index.html">Home</a></li> (Link won't work because raw code is posted here
 When deploying, make sure you're in the correct folder
 HTML formatting is eazy until you start putting in fillable fields.
+
+Command for deploy: ./deployFiles.sh -k ~/OneDrive/Documents/260/production.pem -h lostindev.click -s simon
+
+CSS is hard, make sure that you take the Flex and set the parameters correctly.
