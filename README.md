@@ -16,3 +16,5 @@ HTML formatting is eazy until you start putting in fillable fields.
 Command for deploy: ./deployFiles.sh -k ~/OneDrive/Documents/260/production.pem -h lostindev.click -s simon
 
 CSS is hard, make sure that you take the Flex and set the parameters correctly.
+
+------------random notes for midterm----------------------------------------------------------
