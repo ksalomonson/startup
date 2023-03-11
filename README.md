@@ -18,3 +18,10 @@ Command for deploy: ./deployFiles.sh -k ~/OneDrive/Documents/260/production.pem 
 CSS is hard, make sure that you take the Flex and set the parameters correctly.
 
 ------------random notes for midterm----------------------------------------------------------
+Javascript is hard
+
+const c () => {}
+
+promises are also hard.
+
+.then()
