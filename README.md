@@ -25,3 +25,14 @@ const c () => {}
 promises are also hard.
 
 .then()
+
+--simon service--
+Functinally, using caddy is a lot like using javascript for anything else. It has similar synatx and similar deployments. The most important thing will be keeping track of which ports I'm hosting my software on.
+
+Random useful code snipits for express:
+const express = require('express');
+const app = express();
+
+app.listen(port, () => {
+  console.log(`Listening on port ${port}`);
+});
