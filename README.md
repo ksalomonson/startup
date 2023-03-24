@@ -36,3 +36,8 @@ const app = express();
 app.listen(port, () => {
   console.log(`Listening on port ${port}`);
 });
+
+--Simon database--
+Had to add "" around username and pass inside java code.
+to find connection files, but click the production file
+Remember to use nano not vi, vi is impossible
