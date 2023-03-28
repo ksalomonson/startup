@@ -41,3 +41,8 @@ app.listen(port, () => {
 Had to add "" around username and pass inside java code.
 to find connection files, but click the production file
 Remember to use nano not vi, vi is impossible
+
+--simon login--
+Stuff learned:
+I learned about keeping credentials out of your code and github along with configuring mongo to dynamically assign variables into databases.
+I also learned about using cookies to store the authtoken and why you would want to do such a thing.
