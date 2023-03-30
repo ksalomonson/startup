@@ -46,3 +46,6 @@ Remember to use nano not vi, vi is impossible
 Stuff learned:
 I learned about keeping credentials out of your code and github along with configuring mongo to dynamically assign variables into databases.
 I also learned about using cookies to store the authtoken and why you would want to do such a thing.
+
+--simon websocket--
+This was a difficult one for me. I learned that you can debug this using both VS code and Chrome. Functionally, there are "listeners" and "talkers" that use ports to communicate with each other. The WebSocket is considered to be it's own separate server (it's more of a service than a physical server, but whatever.)
